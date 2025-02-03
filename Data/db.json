@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": "f5a9",
+      "date": "2025-02-07",
+      "day": "Tuesday",
+      "activity": "Marketing",
+      "status": "Done"
+    },
+    {
+      "id": "cbc3",
+      "date": "2025-02-05",
+      "day": "Monday",
+      "activity": "Coding",
+      "status": "Not Done"
+    }
+  ]
+}
